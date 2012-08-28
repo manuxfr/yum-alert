@@ -1,0 +1,14 @@
+Mail example : 
+
+Loaded plugins: fastestmirror, presto
+Loading mirror speeds from cached hostfile
+ * base: mirror.ovh.net
+ * epel: mirror.affix.me
+ * extras: mirror.ovh.net
+ * updates: mirror.ovh.net
+
+glibc.x86_64                          2.12-1.80.el6_3.5                  updates
+glibc-common.x86_64                   2.12-1.80.el6_3.5                  updates
+kernel.x86_64                         2.6.32-279.5.2.el6                 updates
+kernel-firmware.noarch                2.6.32-279.5.2.el6                 updates
+openssl.x86_64                        1.0.0-25.el6_3.1                   updates
